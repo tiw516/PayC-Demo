@@ -1,0 +1,12 @@
+/Users/taylor/RiderProjects/PayDemoApplication/bin/Debug/PayDemoApplication.exe
+/Users/taylor/RiderProjects/PayDemoApplication/bin/Debug/PayDemoApplication.pdb
+/Users/taylor/RiderProjects/PayDemoApplication/obj/Debug/PayDemoApplication.csprojAssemblyReference.cache
+/Users/taylor/RiderProjects/PayDemoApplication/obj/Debug/PayDemoApplication.csproj.CoreCompileInputs.cache
+/Users/taylor/RiderProjects/PayDemoApplication/obj/Debug/PayDemoApplication.exe
+/Users/taylor/RiderProjects/PayDemoApplication/obj/Debug/PayDemoApplication.pdb
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\bin\Debug\PayDemoApplication.exe
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\bin\Debug\PayDemoApplication.pdb
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\obj\Debug\PayDemoApplication.csprojAssemblyReference.cache
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\obj\Debug\PayDemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\obj\Debug\PayDemoApplication.exe
+C:\Users\Alpha Pay IT 02\Desktop\PayDemoApplication\obj\Debug\PayDemoApplication.pdb
